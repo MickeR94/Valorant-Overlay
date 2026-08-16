@@ -7,7 +7,7 @@ A custom real-time stream overlay built for OBS that tracks and displays my Valo
 ![Overlay in OBS](./assets/Overlay2.png)
 
 
-The text would look better white and should probably be made larger as it is a bit difficult to see. Please note that the screen shot is taken on OBS, which is much smaller that full screen Twitch stream and thus even more difficult to see.
+The text would look better white and should probably be made larger as it is a bit difficult to see. Please note that the screenshot is taken on OBS, which is much smaller than a full screen Twitch stream and thus even more difficult to see.
 
 ---
 

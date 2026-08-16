@@ -2,6 +2,13 @@
 
 A custom real-time stream overlay built for OBS that tracks and displays my Valorant rank progression and Rank Rating (RR) towards my 30-day Gold challenge.
 
+![Valorant Overlay Preview (as seen in the IDE)](./assets/Overlay1.png)
+
+![Overlay in OBS](./assets/Overlay2.png)
+
+
+The text would look better white and should probably be made larger as it is a bit difficult to see. Please note that the screen shot is taken on OBS, which is much smaller that full screen Twitch stream and thus even more difficult to see.
+
 ---
 
 ## About the Project
@@ -57,7 +64,7 @@ Add a Browser Source in OBS.
 Set URL to http://x.x.x.x:5173/ (The IP is whatever you see in the terminal of your IDE after running npm run dev -- --host).
 Set width/height (e.g. 500x150) and leave default transparent body CSS.
 
-## What I learnt from this project
+## What I learned from this project
 This project was a great hands-on exercise in
 
 * Building fullstack communication with Express and React.

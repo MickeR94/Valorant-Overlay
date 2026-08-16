@@ -59,7 +59,7 @@ cd valorant-overlay-frontend
 npm install
 npm run dev -- --host
 
-3. Add to OBS
+### 3. Add to OBS
 Add a Browser Source in OBS.
 Set URL to http://x.x.x.x:5173/ (The IP is whatever you see in the terminal of your IDE after running npm run dev -- --host).
 Set width/height (e.g. 500x150) and leave default transparent body CSS.
